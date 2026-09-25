@@ -35,3 +35,4 @@ student_labs/video_note.md
 /gh-issues-agent/
 /.github_issues/
 /bugs/*
+.venv/
